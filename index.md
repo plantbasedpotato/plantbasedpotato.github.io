@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
-subtitle: "Plant Based Potato: A Vegan Blog"
+title: Welcome to Plant Based Potato
+subtitle: "A Vegan Blog"
 layout: page
 callouts: home_callouts
 show_sidebar: true
