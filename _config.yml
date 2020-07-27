@@ -23,9 +23,8 @@ authors:
       name:           Potato
       site:           https://plantbasedpotato.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I'm a simple potato fighting for animal rights.'"
+      email:          plantbasedpotato@gmail.com
  
 # Defaults
 defaults:
@@ -35,7 +34,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: potato
       avatar: /assets/images/avatar1.jpg
       
   # all pages
