@@ -1,7 +1,7 @@
 # Site
-name: 'Plant Based Potato: A Vegan Blog'
-description: 'This is why I'm vegan.'
-logo: 'assets/images/logo.png'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+#logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
@@ -19,12 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    potato:
-      name:           Potato
-      site:           https://plantbasedpotato.github.io
+    sal:
+      name:           Sal
+      site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I'm a simple potato fighting for animal rights.'"
-      email:          plantbasedpotato@gmail.com
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -34,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: potato
+      author: sal
       avatar: /assets/images/avatar1.jpg
       
   # all pages
