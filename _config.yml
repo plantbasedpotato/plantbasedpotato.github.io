@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 author:
-    sal:
+    potato:
       name:           Plant Based Potato
       site:           https://plantbasedpotato.github.io
       avatar:         /assets/images/avatar1.jpg
